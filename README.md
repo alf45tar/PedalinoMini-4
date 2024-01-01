@@ -9,5 +9,5 @@ Quantity|Description|Version|Link|Price
 1|T-Display TF Shiled|Female Pin [H610]|[Link](https://www.lilygo.cc/products/t-display-tf-shied?variant=42729797025973)|2.38 USD
 4|SPST Momentary Soft Touch Foot Switches|||15 USD
 7 leds|WS2812B 5050 RGB LED Strip|30 led/m IP30||3 USD
-||||36 USD
+||||Total|36 USD
 
