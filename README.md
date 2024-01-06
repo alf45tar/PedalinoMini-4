@@ -1,8 +1,10 @@
 # PedalinoMini-4
 
-![](./images/Pedalino%204.jpg)
+![](./images/PedalinoMini%204.jpg)
 
 # Bill of Materials
+
+![](./images/PedalinoMini%204%20Naked.jpg)
 
 Quantity|Description|Version|Link|Price (USD)
 :------:|-----------|-------|----|-----:
@@ -18,3 +20,6 @@ Quantity|Description|Version|Link|Price (USD)
 ||||-----|---------
 ||||Total|44
 
+# Wiring
+
+![](./images/PedalinoMini%204%20Wiring.jpg)
