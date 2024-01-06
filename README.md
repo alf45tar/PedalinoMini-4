@@ -1,5 +1,6 @@
 # PedalinoMini-4
 
+![](./images/Pedalino%204.jpg)
 
 # Bill of Materials
 
