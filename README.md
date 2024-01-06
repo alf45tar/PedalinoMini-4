@@ -1,4 +1,4 @@
-# PedalinoMini-4
+# PedalinoMini™ 4
 
 Fully working PedalinoMini™ with 4 footswitches and a big color display.
 
