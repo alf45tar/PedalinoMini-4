@@ -1,6 +1,6 @@
 # PedalinoMini™ 4
 
-Fully working PedalinoMini™ with 4 footswitches, 1.9" color display, WiFi, Bluetooth and USB MIDI.
+Fully working PedalinoMini™ with 4 footswitches, 1.9" color display with WiFi, Bluetooth and USB MIDI.
 
 ![](./images/PedalinoMini%204.jpg)
 
