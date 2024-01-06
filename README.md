@@ -17,8 +17,7 @@ Quantity|Description|Version|Link|Price (USD)
 7 leds|WS2812B 5050 RGB LED Strip|5V 30 led/m IP30||1
 2 m|Wire AWG24|AWG24||1
 2|M3 Hex Socket Cap Screw 8 mm|M3x8||0.2
-3|M3 Hex Socket Cap Screw 10 mm|M3x10||0.3
-1|M3 Hex Socket Cap Screw 12 mm|M3x12||0.1
+4|M3 Hex Socket Cap Screw 10 mm|M3x10||0.4
 3|M3 Bolt|||0.3
 ||||-----|---------
 ||||Total|39.90
