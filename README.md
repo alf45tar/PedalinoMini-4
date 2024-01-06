@@ -29,3 +29,7 @@ Quantity|Description|Version|Link|Price (USD)
 # Exploded View
 
 ![](./images/PedalinoMini%204%20Exploded%20View.jpg)
+
+# Slicing Results
+
+![](./images/PedalinoMini%204%20Slicing%20Results.jpg)
