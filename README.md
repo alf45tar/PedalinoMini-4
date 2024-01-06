@@ -10,7 +10,7 @@ PedalinoMini™ operates seamlessly with its 4 footswitches, featuring a big 1.9
 
 Quantity|Description|Version|Link|Price (USD)
 :------:|-----------|-------|----|-----:
-1|3D printed case (max dimension 250 mm)|Self printed||5
+1|3D printed case. It requires a printing bed with a minimum size of 250 mm.|Self printed||5
 1|T-Display-S3|Soldered Pin [H577]]|[Link](https://www.lilygo.cc/products/t-display-s3?variant=42351558590645)|15
 1|T-Display TF Shield|Female Pin [H610]|[Link](https://www.lilygo.cc/products/t-display-tf-shied?variant=42729797025973)|3
 4|SPST Momentary Soft Touch Foot Switch|||14
