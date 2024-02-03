@@ -20,7 +20,7 @@ Quantity|Description|Version|Link|Price (USD)
 2|M3 Hex Socket Cap Screw 8 mm|M3x8||0.2
 4|M3 Hex Socket Cap Screw 10 mm|M3x10||0.4
 3|M3 Bolt|||0.3
-|||||------
+|||||----------
 ||||Total|48.90
 
 # Wiring
