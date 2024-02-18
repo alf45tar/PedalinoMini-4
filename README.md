@@ -10,7 +10,7 @@ PedalinoMini™ operates seamlessly with its 4 footswitches, featuring a big 1.9
 
 Quantity|Description|Version|Link|Price (USD)
 :------:|-----------|-------|----|-----:
-1|PedalinoMini™ 4 STL files||[Link](https://github.com/sponsors/alf45tar/sponsorships?sponsor=alf45tar&tier_id=378691&preview=false)|9
+1|PedalinoMini™ 4 [STL files](https://github.com/pedalino-sponsors/PedalinoMini-4)||[Link](https://github.com/sponsors/alf45tar/sponsorships?sponsor=alf45tar&tier_id=378691&preview=false)|9
 120 g|3D printed case (minimum size of printing bed 250 mm)|PLA||5
 1|T-Display-S3|Soldered Pin [H577]]|[Link](https://www.lilygo.cc/products/t-display-s3?variant=42351558590645)|15
 1|T-Display TF Shield|Female Pin [H610]|[Link](https://www.lilygo.cc/products/t-display-tf-shied?variant=42729797025973)|3
