@@ -1,3 +1,6 @@
+<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img align="right" src="./images/cc-by-nc-nd--300x104.png" /></a>
+<br>
+<br>
 # PedalinoMini™ 4
 
 PedalinoMini™ 4 operates seamlessly with its 4 footswitches, featuring a big 1.9" color display equipped with WiFi, Bluetooth, and USB MIDI capabilities. It is powered through a USB-C port, using either a power adapter or, for enhanced convenience, a compact power bank, ensuring up to 6 hours of uninterrupted functionality.
