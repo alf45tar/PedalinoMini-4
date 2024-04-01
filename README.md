@@ -38,6 +38,26 @@ Quantity|Description|Version|Link|Price (USD)
 
 ![](./images/PedalinoMini%204%20Slicing%20Results.jpg)
 
+# Firmware upload
+
+1. Press and hold the DOWN button, plug the USB-C cable, release the DOWN button
+> [!NOTE]
+> The ESP32-S3 chip needs to be in bootloader mode for the detection as a DFU device and flashing.
+
+2. Visit http://alf45tar.github.io/PedalinoMini/installer
+> [!NOTE]
+> Use Google Chrome or Microsoft Edge browser. Safari and iOS devices are not supported yet.
+
+3. Select the latest firmware available
+4. Press "Connect via USB"
+5. Select the USB/UART port where PedalinoMini™ 4 is connected and press "Ok"
+6. Select "INSTALL PEDALINOMINI™", flag "Erase device", press NEXT and press "INSTALL"
+7. Wait a couple of minutes to complete the installation and press "NEXT" at the end
+8. Disconnect and reconnect the USB-C cable to reboot the device
+9. Press "CONNECT TO WI-FI"
+10. Select the Wireless Network, enter the Password of your WiFi and press "CONNECT"
+11. Press "VISIT DEVICE" to access web user interface
+
 # Prototype
 
 ![](./images/PedalinoMini%204%20Front.jpg)
