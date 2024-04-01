@@ -50,13 +50,14 @@ Quantity|Description|Version|Link|Price (USD)
 
 3. Select the latest firmware available
 4. Press "Connect via USB"
-5. Select the USB/UART port where PedalinoMini™ 4 is connected and press "Ok"
+5. Select the USB/UART port where PedalinoMini™ 4 is connected and press "Connect"
 6. Select "INSTALL PEDALINOMINI™", flag "Erase device", press NEXT and press "INSTALL"
 7. Wait a couple of minutes to complete the installation and press "NEXT" at the end
 8. Disconnect and reconnect the USB-C cable to reboot the device
-9. Press "CONNECT TO WI-FI"
-10. Select the Wireless Network, enter the Password of your WiFi and press "CONNECT"
-11. Press "VISIT DEVICE" to access web user interface
+9. Repeat step 2, 4, 5
+10. Select "CONNECT TO WI-FI"
+11. Select the Wireless Network, enter the Password of your WiFi and press "CONNECT"
+12. Select "VISIT DEVICE" to access web user interface
 
 # Prototype
 
