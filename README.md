@@ -28,6 +28,8 @@ Quantity|Description|Version|Link|Price (USD)
 
 # Wiring
 
+The current wiring requires firmware version 3.5.0 or above.
+
 ![](./images/PedalinoMini%204%20Wiring.jpg)
 
 # Exploded View
